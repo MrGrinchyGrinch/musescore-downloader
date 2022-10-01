@@ -371,4 +371,5 @@ No, il documento API è su https://developers.musescore.com/.
 **Avvierò un'alternativa open source (GPLv3), serverless, offline-first, frontend-first e totalmente gratuita a musescore.com, [LibreScore](https://github.com/LibreScore). Tutti sono invitati a partecipare allo sviluppo del progetto aprendo una issue o [inviandomi un'e-mail](mailto:i@xmader.com).**
 
 **Inoltre, sto sviluppando [webmscore](https://github.com/LibreScore/webmscore). Potrebbe convertire un file mscz in qualsiasi formato supportato dal software Musescore e nel browser.** Poiché il software Musescore è open source sotto [GPL](https://github.com/musescore/MuseScore/blob/master/LICENSE.GPL), potrei tradurre il codice sorgente in js o compilarlo in asm.js/WASM.
-[[![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=[(https://github.com/MrGrinchyGrinch/musescore-downloader]
+[[![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://github.com/MrGrinchyGrinch/musescore-downloader)]
+---
